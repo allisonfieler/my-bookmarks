@@ -1,6 +1,9 @@
 h1 {
   text-align: center;
 }
+h2 {
+  margin-top: 5px;
+}
 a {
   color: green;
   text-decoration: none;
