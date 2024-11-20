@@ -5,18 +5,18 @@ h1 {
   margin:auto;
   width: 60%;
   border: 1px solid gray;
-  padding: 10px;
 }
 .links {
   margin: auto;
   width: 60%;
   border: 1px solid gainsboro;
-  padding: 10px;
+  padding: 0px 20px;
 }
 a {
   display: block;
   color: green;
   text-decoration: none;
+  padding: 5px 0px;
 }
 a:hover {
   text-decoration: underline;
