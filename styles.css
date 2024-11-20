@@ -1,26 +1,25 @@
 h1 {
   text-align: center;
 }
-h2 {
+.section {
+  margin:auto;
   width: 60%;
+  border: 1px solid gray;
+  padding: 10px;
 }
 .links {
   margin: auto;
   width: 60%;
   border: 1px solid gainsboro;
-  border-radius: 5px;
   padding: 10px;
 }
 a {
+  display: block;
   color: green;
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-}
-p {
-  margin-bottom: 5px;
-  margin-top: 5px;
 }
 @media (max-width: 800px) {
   h2 {
