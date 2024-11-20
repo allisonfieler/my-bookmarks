@@ -2,7 +2,8 @@ h1 {
   text-align: center;
 }
 h2 {
-  margin-top: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 a {
   color: green;
@@ -13,7 +14,7 @@ a:hover {
 }
 div {
   margin: auto;
-  width: 80%;
+  width: 60%;
   border: 1px solid gainsboro;
   border-radius: 5px;
   padding: 10px;
