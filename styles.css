@@ -5,19 +5,19 @@ h2 {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.links {
+  margin: auto;
+  width: 60%;
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  padding: 10px;
+}
 a {
   color: green;
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-}
-div {
-  margin: auto;
-  width: 60%;
-  border: 1px solid gainsboro;
-  border-radius: 5px;
-  padding: 10px;
 }
 p {
   margin-bottom: 5px;
