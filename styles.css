@@ -25,8 +25,8 @@ a:hover {
   text-decoration: underline;
 }
 @media (max-width: 800px) {
-  h2 {
-    width: 60%;
+  .section {
+    width: 80%;
   }
   .links {
     width: 80%;
