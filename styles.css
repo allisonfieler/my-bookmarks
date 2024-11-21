@@ -6,7 +6,8 @@ h1 {
   width: 60%;
   background-color: gray;
   box-sizing: border-box;
-  padding: 10px 20px;
+  padding: 5px 20px;
+  color: whitesmoke;
 }
 .links {
   margin: auto;
