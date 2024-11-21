@@ -7,13 +7,16 @@ h1 {
   margin:auto;
   box-sizing: border-box;
   border: none;
-  background-color: gray;
+  background-color: darkgray;
   color: white;
   text-align: left;
   padding: 20px;
   cursor: pointer;
   font-size: 20px;
   font-weight: bold;
+}
+.collapsible:hover {
+  background-color: gray;
 }
 .links {
   margin: auto;
