@@ -4,14 +4,14 @@ h1 {
 .section {
   margin:auto;
   width: 60%;
-  border: 1px solid gray;
+  background-color: gray;
   box-sizing: border-box;
   padding-left: 20px;
 }
 .links {
   margin: auto;
   width: 60%;
-  border: 1px solid gainsboro;
+  background-color: gainsboro;
   box-sizing: border-box;
   padding: 10px 20px;
 }
