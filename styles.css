@@ -21,7 +21,7 @@ h1 {
   background-color: gainsboro;
   box-sizing: border-box;
   padding: 10px 20px;
-  display: none;
+  display: block;
   overflow: hidden;
 }
 a {
