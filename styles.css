@@ -5,6 +5,7 @@ h1 {
   margin:auto;
   width: 60%;
   box-sizing: border-box;
+  border: none;
   background-color: gray;
   color: white;
   text-align: left;
@@ -18,8 +19,6 @@ h1 {
   background-color: gainsboro;
   box-sizing: border-box;
   padding: 10px 20px;
-  display: none;
-  overflow: hidden;
 }
 a {
   display: block;
