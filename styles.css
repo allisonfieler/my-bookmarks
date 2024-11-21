@@ -1,13 +1,16 @@
 h1 {
   text-align: center;
 }
-.section {
+.collapsible {
   margin:auto;
   width: 60%;
-  background-color: gray;
   box-sizing: border-box;
-  padding: 5px 20px;
+  background-color: gray;
   color: white;
+  text-align: left;
+  padding: 5px 20px;
+  cursor: pointer;
+  font-size: 15px;
 }
 .links {
   margin: auto;
@@ -15,6 +18,8 @@ h1 {
   background-color: gainsboro;
   box-sizing: border-box;
   padding: 10px 20px;
+  display: none;
+  overflow: hidden;
 }
 a {
   display: block;
