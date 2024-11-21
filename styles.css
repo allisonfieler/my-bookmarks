@@ -10,9 +10,10 @@ h1 {
   background-color: gray;
   color: white;
   text-align: left;
-  padding: 5px 20px;
+  padding: 10px;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 20px;
+  font-weight: bold;
 }
 .links {
   margin: auto;
