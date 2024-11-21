@@ -4,10 +4,10 @@ window.addEventListener('load', (event) => {
     for (var i = 0; i < coll_elems.length; i++) {
         coll_elems[i].addEventListener("click", function () {
             var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-                content.style.display = "none";
-            } else {
+            if (content.style.display === "none") {
                 content.style.display = "block";
+            } else {
+                content.style.display = "none";
             }
         });
     }
