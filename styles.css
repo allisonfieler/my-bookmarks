@@ -18,6 +18,13 @@ h1 {
 .collapsible:hover {
   background-color: gray;
 }
+.collapsible:after {
+  content: "\2796";
+  float: right;
+}
+.active:after {
+  content: '\02795';
+}
 .links {
   margin: auto;
   width: 60%;
