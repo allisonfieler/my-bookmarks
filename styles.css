@@ -20,10 +20,14 @@ h1 {
 }
 .collapsible:after {
   content: "\2796";
+  color: white;
+  font-size: 15px;
   float: right;
 }
 .active:after {
   content: '\02795';
+  color: white;
+  font-size: 15px;
 }
 .links {
   margin: auto;
