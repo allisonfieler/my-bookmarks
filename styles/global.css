@@ -1,10 +1,13 @@
+body {
+  background-color: #E6E6E6;
+}
 h1 {
   text-align: center;
-  color: #594F4F
+  color: #29353C;
 }
 a {
   display: block;
-  color: #9DE0AD;
+  color: #AAC7D8;
   text-decoration: none;
   padding-bottom: 5px;
 }
@@ -17,7 +20,7 @@ a:hover {
   margin:auto;
   box-sizing: border-box;
   border: none;
-  background-color: #547980;
+  background-color: #44576D;
   color: white;
   text-align: left;
   padding: 20px;
@@ -26,7 +29,7 @@ a:hover {
   font-weight: bold;
 }
 .collapsible:hover {
-  background-color: #45ADA8;
+  background-color: #768A96;
 }
 .collapsible:after {
   content: "\2212";
@@ -38,7 +41,7 @@ a:hover {
 .links {
   margin: auto;
   width: 60%;
-  background-color: #E5FCC2;
+  background-color: #DFEBF6;
   box-sizing: border-box;
   padding: 10px 20px;
   display: block;
