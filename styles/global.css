@@ -3,11 +3,11 @@ body {
 }
 h1 {
   text-align: center;
-  color: #29353C;
+  color: #44576D;
 }
 a {
   display: block;
-  color: #DFEBF6;
+  color: #44576D;
   text-decoration: none;
   padding-bottom: 5px;
 }
@@ -29,7 +29,7 @@ a:hover {
   font-weight: bold;
 }
 .collapsible:hover {
-  background-color: #44576D;
+  background-color: #768A96;
 }
 .collapsible:after {
   content: "\2212";
