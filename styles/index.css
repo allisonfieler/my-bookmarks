@@ -1,13 +1,7 @@
-a {
-    width: 300px;
-    margin: auto;
-    background-color: honeydew;
-    padding: 20px;
-    text-align: center;
-    font-size: 20px;
+h1 {
+  background-color: black;
 }
-@media (max-width: 800px) {
-    a {
-      width: 80%;
-    }
-  }
+button {
+  width: 30%;
+  margin: auto;
+}
