@@ -1,9 +1,10 @@
 h1 {
   text-align: center;
+  color: #594F4F
 }
 a {
   display: block;
-  color: black;
+  color: #9DE0AD;
   text-decoration: none;
   padding-bottom: 5px;
 }
@@ -16,7 +17,7 @@ a:hover {
   margin:auto;
   box-sizing: border-box;
   border: none;
-  background-color: midnightblue;
+  background-color: #547980;
   color: white;
   text-align: left;
   padding: 20px;
@@ -25,7 +26,7 @@ a:hover {
   font-weight: bold;
 }
 .collapsible:hover {
-  background-color: navy;
+  background-color: #45ADA8;
 }
 .collapsible:after {
   content: "\2212";
@@ -37,7 +38,7 @@ a:hover {
 .links {
   margin: auto;
   width: 60%;
-  background-color: ghostwhite;
+  background-color: #E5FCC2;
   box-sizing: border-box;
   padding: 10px 20px;
   display: block;
